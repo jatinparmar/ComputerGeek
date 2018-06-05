@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ComputerGeek</string>
+    <string name="email">admin@gmail.com</string>
+    <string name="password">admin@123</string>
+    <string name="error">Error</string>
+    <string name="message">Wrong Username/Password</string>
+    <string-array name="quizType">
+        <item>Select Quiz</item>
+        <item>Java Quiz</item>
+        <item>C Quiz</item>
+        <item>C++ Quiz</item>
+        <item>Hadoop Quiz</item>
+    </string-array>
+</resources>
